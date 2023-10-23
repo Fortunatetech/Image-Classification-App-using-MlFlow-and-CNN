@@ -1,0 +1,12 @@
+### dependency to be installed
+tqdm
+mlflow
+pandas
+numpy
+PyYAML
+Pillow
+tensorflow
+dvc
+dvc[gdrive]
+### local packages -
+-e . # << uncomment this to install from setup.py
